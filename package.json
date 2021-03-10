@@ -1,0 +1,30 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "Practice exercises for testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgamadev/jest-testing-practice.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexgamadev/jest-testing-practice/issues"
+  },
+  "homepage": "https://github.com/alexgamadev/jest-testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.13.0",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "@types/jest": "^26.0.20",
+    "babel-jest": "^26.6.3",
+    "typescript": "^4.2.3"
+  }
+}
